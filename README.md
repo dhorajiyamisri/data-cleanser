@@ -198,7 +198,10 @@ Machine Learning Ready Dataset
 <img src="assets/README_demo.gif" width="100%">
 </p>
 
-<img width="1920" height="922" alt="Recording 2026-06-15 140939" src="https://github.com/user-attachments/assets/50ecc226-5e2f-4cbc-8d14-4bfe1a22e882" />
+<img width="1016" height="924" alt="20260615-0908-00 2684293" src="https://github.com/user-attachments/assets/ac7e76c2-e3dd-4032-8550-a4cb9082a1ca" />
+
+          
+
 
 
 ---
