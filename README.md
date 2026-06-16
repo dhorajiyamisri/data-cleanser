@@ -1,4 +1,4 @@
-                              # 🏥 Data Cleanser
+# 🏥 Data Cleanser
 ### 🚀 Missing Value Imputation • Outlier Detection • Healthcare Data Preprocessing
 
 # 📌 Project Overview
@@ -161,41 +161,12 @@ Instead of removing observations, extreme values were capped using percentile li
 
 ---
 
-# 🔄 Project Workflow
-
-```text
-Raw Healthcare Dataset
-          │
-          ▼
-Data Exploration
-          │
-          ▼
-Missing Value Analysis
-          │
-          ▼
-Imputation Techniques
-(Simple, KNN, MICE)
-          │
-          ▼
-Outlier Detection
-(Z-Score, IQR, Percentile)
-          │
-          ▼
-Winsorization
-          │
-          ▼
-Clean Dataset
-          │
-          ▼
-Machine Learning Ready Dataset
-```
-
 ---
 
 # 🎥 Project Demonstration
 
 <p align="center">
-<img src="assets/README_demo.gif" width="100%">
+<img src="assets/README_demo.gif" width="800%">
 </p>
 
 <img width="1016" height="924" alt="20260615-0908-00 2684293" src="https://github.com/user-attachments/assets/ac7e76c2-e3dd-4032-8550-a4cb9082a1ca" />
