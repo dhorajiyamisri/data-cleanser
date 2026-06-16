@@ -169,7 +169,7 @@ Instead of removing observations, extreme values were capped using percentile li
 <img src="assets/README_demo.gif" width="800%">
 </p>
 
-<img width="1016" height="800" alt="20260615-0908-00 2684293" src="https://github.com/user-attachments/assets/ac7e76c2-e3dd-4032-8550-a4cb9082a1ca" />
+<img width="1016" height="600" alt="20260615-0908-00 2684293" src="https://github.com/user-attachments/assets/ac7e76c2-e3dd-4032-8550-a4cb9082a1ca" />
 
           
 
